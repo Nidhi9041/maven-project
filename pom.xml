@@ -207,10 +207,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-    <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
-    <tag>HEAD</tag>
-    <url>http://github.com/jleetutorial/maven-project</url>
+    <connection>scm:git:git@github.com:deeptraining/maven-project.git</connection>
+    <developerConnection>scm:git:git@github.com:deeptraining/maven-project.git</developerConnection>
+    <tag>HEAD</tag>deeptraining
+    <url>http://github.com/deeptraining/maven-project</url>
   </scm>
 
   <prerequisites>
